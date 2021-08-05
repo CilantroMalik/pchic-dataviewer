@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pchic-dataviewer/static/css/main.a1feaf4f.chunk.css",
-    "main.js": "/pchic-dataviewer/static/js/main.718fe1ff.chunk.js",
-    "main.js.map": "/pchic-dataviewer/static/js/main.718fe1ff.chunk.js.map",
+    "main.js": "/pchic-dataviewer/static/js/main.2d5cc7dd.chunk.js",
+    "main.js.map": "/pchic-dataviewer/static/js/main.2d5cc7dd.chunk.js.map",
     "runtime-main.js": "/pchic-dataviewer/static/js/runtime-main.26a3d683.js",
     "runtime-main.js.map": "/pchic-dataviewer/static/js/runtime-main.26a3d683.js.map",
     "static/js/2.2328fe30.chunk.js": "/pchic-dataviewer/static/js/2.2328fe30.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.26a3d683.js",
     "static/js/2.2328fe30.chunk.js",
     "static/css/main.a1feaf4f.chunk.css",
-    "static/js/main.718fe1ff.chunk.js"
+    "static/js/main.2d5cc7dd.chunk.js"
   ]
 }
